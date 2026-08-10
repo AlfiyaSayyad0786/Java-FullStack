@@ -1,4 +1,4 @@
-public class Main {
+public class wideningexample {
     public static void main(String[] args) {
         int number = 25;
 
@@ -8,3 +8,6 @@ public class Main {
         System.out.println("Double = " + result);
     }
 }
+
+
+    
