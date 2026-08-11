@@ -1,6 +1,6 @@
-package if else if ladder;
+package if git else if ladder;
 
-public class if else if {
+public class ifelseif {
     public static void main(String[] args) {
 
         int marks = 75;
